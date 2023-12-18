@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://duthaho.github.io/learn/blog</id>
+    <title>Learning Hub Blog</title>
+    <updated>2023-12-18T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://duthaho.github.io/learn/blog"/>
+    <subtitle>Learning Hub Blog</subtitle>
+    <icon>https://duthaho.github.io/learn/img/images.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://duthaho.github.io/learn/blog/welcome</id>
+        <link href="https://duthaho.github.io/learn/blog/welcome"/>
+        <updated>2023-12-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi there, welcome to my new blog!]]></summary>
+        <content type="html"><![CDATA[<p>Hi there, welcome to my new blog!</p>]]></content>
+        <author>
+            <name>Duthaho</name>
+            <uri>https://github.com/duthaho</uri>
+        </author>
+        <category label="hello" term="hello"/>
+    </entry>
+</feed>
